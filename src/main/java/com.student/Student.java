@@ -27,7 +27,7 @@ public class Student {
     public void displayStudent() {
         System.out.println("ID: " + id);
         System.out.println("Name: " + name);
-        System.out.println("Department: " + department);
+        System.out.println("Dept: " + department);
         System.out.println("----------------------");
     }
 }
